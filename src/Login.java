@@ -74,7 +74,6 @@ public class Login extends JFrame {
 		panel.add(Loginbtn);
 		
 
-		// hello baluga
-
+		// try
 	}
 }
