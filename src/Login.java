@@ -72,5 +72,7 @@ public class Login extends JFrame {
 		Loginbtn.setFont(new Font("Tahoma", Font.BOLD, 16));
 		Loginbtn.setBounds(222, 292, 106, 34);
 		panel.add(Loginbtn);
+		
+		//jomsa
 	}
 }
